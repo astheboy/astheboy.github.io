@@ -24,4 +24,6 @@ YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수
 
 비주얼 코드에서 글을 수정한 후 다시 적용하기
 
-![배경사진](./assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg)
+![배경사진][def]
+
+[def]: /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
