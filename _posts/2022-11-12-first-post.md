@@ -5,25 +5,50 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2022-11-13T08:06:00-05:00
 ---
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+##GitHub 블로그 시작
 
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
+아마조 라이트세일을 이용하여 교육활동을 소개하는 [푸른꿈교실](https://han-sr.com) 워드프레스 블로그를 운영중이다.
+요즘 파이썬을 공부하면서 내가 공부한 코드를 저장하기 깃허브와 비주얼 스튜디오 코드를 사용하고 있다.
+그런데 GitHub Pages를 이용하여 정적 페이지 블로그를 구축하여 운영할 수 있다는 사실을 알고 관련 자료를 참고하여 제작에 도전하였다.
+간단한 제작 순서를 기록하면 아래와 같다.
 
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 {{ page.title }}이고
-마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+1. 맥OS(m1 맥북에어 기본형)에 gem을 설치하고 루비를 최신 버전으로 설치
+  - 참고사이트
+    - [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](def2)
+    - [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](def3)
+    - [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](def4)
+2. 터미널 모드에서 jekyll 설치
+3. jekyll 테마 설치
+  - 설치 테마
+    - [minimal-mistakes](def6)
+4. 로컬에서 서버 구동 후 동작 확인
+5. 깃허브에서 블로그로 활용한 Repository를 생성하고 GitHub Pages 구성
+6. 생선 Repository git을 로컬과 연결하고 관련 소스 코드 푸시
+7. GitHub Pages 링크 주소로 접속 후 정상 작동 확인
+8. _config.yml 을 수정하여 블로그 페이지의 전체 내용 수정
+
+블로그 만드는 데 가장 큰 도움을 준 사이트 아래와 같다.
+특히 [GitHub Pages 블로그 따라하기](def5)는 단계별로 매우 상세하게 자료를 안내해주고 있어 큰 도움이 되었다.
 
 
+---
+###GitHub 블로그를 위해 참고한 사이트 목록
+- [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](def2)
 
-##블로그 시작
+- [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](def3)
 
-비주얼 코드에서 글을 수정한 후 다시 적용하기
+- [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](def4)
 
-![배경사진][def]
+- [GitHub Pages 블로그 따라하기](def5)
 
-[def]: /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
+![배경사진](def1)
+
+[def1] : /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
+[def2] : https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 
+[def3] : https://jojoldu.tistory.com/288
+[def4] : https://d-dual.tistory.com/8
+[def5] : https://devinlife.com/howto/
+[def6] : https://github.com/mmistakes/minimal-mistakes
