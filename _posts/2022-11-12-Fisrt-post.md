@@ -1,19 +1,13 @@
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2022-11-13T08:06:00-05:00
----
 
-##GitHub 블로그 시작
+## GitHub 블로그 시작
 
 아마조 라이트세일을 이용하여 교육활동을 소개하는 [푸른꿈교실](https://han-sr.com) 워드프레스 블로그를 운영중이다.
 요즘 파이썬을 공부하면서 내가 공부한 코드를 저장하기 깃허브와 비주얼 스튜디오 코드를 사용하고 있다.
 그런데 GitHub Pages를 이용하여 정적 페이지 블로그를 구축하여 운영할 수 있다는 사실을 알고 관련 자료를 참고하여 제작에 도전하였다.
 간단한 제작 순서를 기록하면 아래와 같다.
+
+## Github 블로그 제작 과정
 
 1. 맥OS(m1 맥북에어 기본형)에 gem을 설치하고 루비를 최신 버전으로 설치
   - 참고사이트
@@ -35,7 +29,7 @@ last_modified_at: 2022-11-13T08:06:00-05:00
 
 
 ---
-###GitHub 블로그를 위해 참고한 사이트 목록
+## GitHub 블로그를 위해 참고한 사이트 목록
 - [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](def2)
 
 - [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](def3)
@@ -44,11 +38,15 @@ last_modified_at: 2022-11-13T08:06:00-05:00
 
 - [GitHub Pages 블로그 따라하기](def5)
 
-![배경사진](def1)
+---
 
-[def1] : /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
-[def2] : https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 
-[def3] : https://jojoldu.tistory.com/288
-[def4] : https://d-dual.tistory.com/8
-[def5] : https://devinlife.com/howto/
-[def6] : https://github.com/mmistakes/minimal-mistakes
+![배경사진][def]
+
+[def]:  /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
+[def2]: https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 
+[def3]: https://jojoldu.tistory.com/288
+[def4]: https://d-dual.tistory.com/8
+[def5]: https://devinlife.com/howto/
+[def6]: https://github.com/mmistakes/minimal-mistakes
+
+
