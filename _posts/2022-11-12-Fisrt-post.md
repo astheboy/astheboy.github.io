@@ -10,14 +10,14 @@
 ## Github 블로그 제작 과정
 
 1. 맥OS(m1 맥북에어 기본형)에 gem을 설치하고 루비를 최신 버전으로 설치
-  - 참고사이트
-    - [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](def2)
-    - [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](def3)
-    - [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](def4)
+  - 참고사이트 
+    >- [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 )
+    > - [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](https://jojoldu.tistory.com/288)
+    > - [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](https://d-dual.tistory.com/8)
 2. 터미널 모드에서 jekyll 설치
 3. jekyll 테마 설치
   - 설치 테마
-    - [minimal-mistakes](def6)
+    > - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 4. 로컬에서 서버 구동 후 동작 확인
 5. 깃허브에서 블로그로 활용한 Repository를 생성하고 GitHub Pages 구성
 6. 생선 Repository git을 로컬과 연결하고 관련 소스 코드 푸시
@@ -25,28 +25,21 @@
 8. _config.yml 을 수정하여 블로그 페이지의 전체 내용 수정
 
 블로그 만드는 데 가장 큰 도움을 준 사이트 아래와 같다.
-특히 [GitHub Pages 블로그 따라하기](def5)는 단계별로 매우 상세하게 자료를 안내해주고 있어 큰 도움이 되었다.
+특히 [GitHub Pages 블로그 따라하기](https://devinlife.com/howto/)는 단계별로 매우 상세하게 자료를 안내해주고 있어 큰 도움이 되었다.
 
 
 ---
 ## GitHub 블로그를 위해 참고한 사이트 목록
-- [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](def2)
+- [깃허브 블로그 만드는데 루비 퍼미션 없는 에러 해결](https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 )
 
-- [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](def3)
+- [Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](https://jojoldu.tistory.com/288)
 
-- [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](def4)
+- [[ Mac OS / Terminal ] zsh 셸에서 Vim을 이용하여 환경 변수 설정하는 방법](https://d-dual.tistory.com/8)
 
-- [GitHub Pages 블로그 따라하기](def5)
+- [GitHub Pages 블로그 따라하기](https://devinlife.com/howto/)
 
 ---
 
-![배경사진][def]
-
-[def]:  /assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg
-[def2]: https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%8D%B0-%EB%A3%A8%EB%B9%84-%ED%8D%BC%EB%AF%B8%EC%85%98-%EC%97%86%EB%8A%94-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0 
-[def3]: https://jojoldu.tistory.com/288
-[def4]: https://d-dual.tistory.com/8
-[def5]: https://devinlife.com/howto/
-[def6]: https://github.com/mmistakes/minimal-mistakes
+![배경사진](/assets/img/KilimanjaroMawenzi_ROW12001033920_1366x768.jpg)
 
 
