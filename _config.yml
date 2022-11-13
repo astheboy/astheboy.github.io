@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "코딩 배우는 상상 속 개발자"
 description              : "컴퓨터 기술과 코딩을 배워가는 코더 노트 블로그"
-url                      : "https://astheboy.github.io/stack/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://astheboy.github.io/"
+baseurl                  : # '/blog'
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/img/sangsangcoder_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/img/sangsangcoder_logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -112,19 +112,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:astheboy@outlook.com"
+      url: "mailto:astheboy@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://han-sr.com"
+      url: "https://han-sr.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/SeungRyun"
+      url: "https://twitter.com/SeungRyun"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/ryun82"
+      url: "https://www.facebook.com/ryun82"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/astheboy/Python_Study"
+      url: "https://github.com/astheboy/Python_Study"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,13 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/SeungRyun"
+      url: "https://twitter.com/SeungRyun"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/ryun82"
+      url: "https://www.facebook.com/ryun82"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/astheboy/Python_Study"
+      url: "https://github.com/astheboy/Python_Study"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -220,7 +220,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
