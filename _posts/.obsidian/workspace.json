@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "a004c6ff7adb5675",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b9f3b7ff0e6dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3caed29294519e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85dcc641c6c2b8ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61d099cb5a4f192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8af9eef06a922e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c7b25eda9845ab3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e05314fb9f78007",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46fd8811edeb6bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7627d42161bc27b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa137ee46b0972ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "981426251c75c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ecf938b73104fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e58d68291f59ed0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b3caed29294519e7",
+  "lastOpenFiles": [
+    "2022-11-13-파이썬 집합(set)자료형 연습-02.md",
+    "2022-11-13-파이썬 집합(set)자료형 연습.md",
+    "2022-11-12-GitHub 블로그 시작과 제작과정.md"
+  ]
+}
