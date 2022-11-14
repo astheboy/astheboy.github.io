@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "코딩 배우는 상상 속 개발자"
 description              : "컴퓨터 기술과 코딩을 배워가는 코더 노트 블로그"
-url                      : "https://astheboy.github.io/"
+url                      : "https://sangsangcoder.github.io/"
 baseurl                  : # '/blog'
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/img/sangsangcoder_logo.png"
