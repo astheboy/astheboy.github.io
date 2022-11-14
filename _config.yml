@@ -24,7 +24,7 @@ description              : "컴퓨터 기술과 코딩을 배워가는 코더 �
 url                      : "https://astheboy.github.io/"
 baseurl                  : # '/blog'
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/img/sangsangcoder_logo.png"
+teaser                   : # "/assets/img/sangsangcoder_logo.png"
 logo                     : "/assets/img/sangsangcoder_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
