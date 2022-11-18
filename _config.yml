@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "상상 속 개발자를 꿈꾸는 사람"
   location         : "대한민국"
-  email            : "astheboy@outlook.com"
+  email            : #"astheboy@outlook.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:astheboy@outlook.com"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:astheboy@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://han-sr.com"
@@ -125,8 +125,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/astheboy/Python_Study"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
