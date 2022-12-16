@@ -16,7 +16,7 @@
   // 	"description": "Log output to console"
   // }
   "post_head": {
-    "prefix": "*post_head",
+    "prefix": "pd",
     "body": [
       "---",
       "layout: single",
