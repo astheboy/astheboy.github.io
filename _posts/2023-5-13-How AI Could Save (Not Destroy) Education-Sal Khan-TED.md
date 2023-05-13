@@ -7,13 +7,6 @@ toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
 author_profile: true
-
-태그: #인공지능 #인공지능교육 #칸아카데미 #TED
-출처: How AI Could Save (Not Destroy) Education
-저자: # Sal Khan
-url: https://www.youtube.com/watch?v=hJP5GqnTrNo
-인용:
-연결문서:
 ---
 
 ## AI가 교육을 파괴하지 않고 구할 수 있을까?
