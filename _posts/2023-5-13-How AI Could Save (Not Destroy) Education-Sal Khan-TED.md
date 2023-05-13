@@ -2,7 +2,7 @@
 layout: single
 title: "How AI Could Save (Not Destroy) Education"
 categories: AI교육
-tag: [인공지능, AI, 인공지능활용교육, 칸아카데미]
+tag: [인공지능, AI, 인공지능활용교육, 칸아카데미, blog, 블로그]
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"

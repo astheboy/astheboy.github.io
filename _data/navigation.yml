@@ -4,6 +4,8 @@ main:
     url: https://astheboy.github.io
   - title: "Categories"
     url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
   - title: "Python"
     url: /categories/python/
   - title: "About"
