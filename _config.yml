@@ -114,7 +114,7 @@ author:
       #url: "mailto:astheboy@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://han-sr.com"
+      url: "http://han-sr.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SeungRyun"
