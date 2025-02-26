@@ -281,3 +281,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+exclude:
+  - CHANGELOG.md
