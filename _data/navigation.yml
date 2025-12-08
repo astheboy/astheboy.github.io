@@ -1,0 +1,60 @@
+# main links
+main:
+  - title: "Home"
+    url: https://astheboy.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "About"
+    url: /about/
+
+categories:
+  - title: "Home"
+    url: https://astheboy.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "About"
+    url: /about/
+
+Blog:
+  - title: "Home"
+    url: https://astheboy.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "About"
+    url: /about/
+
+python:
+  - title: "Home"
+    url: https://astheboy.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "About"
+    url: /about/
+
+about:
+  - title: "Home"
+    url: https://astheboy.github.io
+  - title: "Categories"
+    url: /categories/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Python"
+    url: /categories/python/
+  - title: "About"
+    url: /about/
